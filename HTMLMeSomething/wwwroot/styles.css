@@ -1,5 +1,6 @@
 ﻿header, footer, main {
     margin: 15px;
+    padding: 20px;
 }
 
 header {
@@ -10,6 +11,8 @@ ul {
     border: 2px solid lime;
     padding: 20px;
     list-style: none;
+    box-shadow: black 20px 20px inset;
+
 }
 
 img {
@@ -37,6 +40,7 @@ a.linkfont {
     font-weight: bolder;
 }
 
-div.polaroid {
-    box-shadow: 10px 10px 5px grey;
+p {
+    margin: 20px;
+    padding: 20px;
 }
