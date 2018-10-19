@@ -4,16 +4,20 @@
 }
 
 header {
-    color: darkturquoise;
+    color: lime;
+
 }
 
 ul {
     border: 2px solid lime;
     padding: 20px;
-    list-style: none;
-    box-shadow: black 20px 20px inset;
 
+    list-style: none;
+    
+   
 }
+
+
 
 img {
     padding-top: 20px;
