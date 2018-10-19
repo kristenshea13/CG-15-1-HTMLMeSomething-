@@ -6,26 +6,21 @@
 header {
     color: lime;
     background-color: black;
-    
-
 }
 
 ul {
     border: 2px solid lime;
     padding: 20px;
-
     list-style: none;
-    box-shadow: rgb(0, 0, 0) 10px 10px inset;
-    
-   
+    box-shadow: rgb(0, 0, 0) 10px 10px;
 }
-
-
 
 img {
     padding-top: 20px;
     padding-bottom: 20px;
-    box-shadow: rgb(0, 0, 0) 20px 20px;
+    
+    
+    box-shadow: 20px 20px 10px grey;
 }
 
 a:visited, a {
@@ -47,4 +42,3 @@ a.linkfont {
 .realbold {
     font-weight: bolder;
 }
-
